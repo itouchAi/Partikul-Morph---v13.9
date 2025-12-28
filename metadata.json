@@ -1,0 +1,9 @@
+{
+  "name": "Partikul Morfolojisi - v13.9",
+  "description": "Etkileşimli 3D partikül sistemi. Küre formundan metin formuna dönüşebilen, fizik tabanlı ve fare etkileşimli görsel şölen.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
